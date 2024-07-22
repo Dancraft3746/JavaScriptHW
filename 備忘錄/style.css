@@ -1,0 +1,18 @@
+@import url("reset.css");
+
+body{}
+
+.head{}
+
+.head h1{}
+
+.wrapper{
+    
+}
+
+.wrapper ul{}
+
+.wrapper li{
+    display: flex;
+}
+
